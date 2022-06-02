@@ -41,4 +41,9 @@ body:
       label: Change Request
       description: Describe what the change is, what it's going to do, and how to measure success of the change.
 
-        
+  - type: textarea
+    id: people
+    attributes:
+      label: People
+      description: Who is a part of this change?
+      placeholder: "@GitHub-Username"
