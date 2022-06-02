@@ -17,5 +17,7 @@ body:
     attributes:
       label: Issue Text
       description: "Describe your request."
-      value: stuff
+      value: |
+        - [ ] a thing
+        - [ ] another thing
       
