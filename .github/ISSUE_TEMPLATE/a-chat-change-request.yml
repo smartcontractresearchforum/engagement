@@ -15,9 +15,9 @@ body:
         Any reqeusts to change or add images or words needs to pass through the [Document Pipeline](http://urltodocumentpipeline) (need url) @marvino3
 
         ### How to Go Live
-        Changes to Discord are made on a set schedule of **Launch Windows**. 
+        Changes to Discord are made on a set schedule of `Launch Windows`. 
         
-        In order for this change to go live, the below **Launch Ready Task List** must be completed before the opening of the next **Launch Window**.
+        In order for this change to go live, the below `Launch Ready Task List` must be completed before the opening of the next `Launch Window`.
         
         For a list of launch windows please see the [Launch Window View](https://github.com/orgs/smartcontractresearchforum/projects/31/views/2) 
 
