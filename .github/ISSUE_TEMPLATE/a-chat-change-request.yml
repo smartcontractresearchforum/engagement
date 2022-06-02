@@ -47,5 +47,5 @@ body:
       label: People
       description: Who is a part of this change?
       placeholder: |
-      - @GitHub-Username
-      - @GitHub-Username
+        - @GitHub-Username
+        - @GitHub-Username
