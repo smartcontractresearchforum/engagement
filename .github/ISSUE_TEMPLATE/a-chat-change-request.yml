@@ -8,10 +8,18 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this new user form!
+        ### Discord Change Lifecyle
+        In order to get your change live on discord the following must occur.
+        - a thing.
+        - another thing.
+
 
   - type: textarea
     id: text
     attributes:
       label: Issue Text
       description: text goes here!
+      value: | 
+      - [ ] a thing
+      - [ ] another thing
+      
