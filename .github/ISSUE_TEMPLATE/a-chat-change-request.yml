@@ -25,8 +25,8 @@ body:
       value: |        
         ### Tasks
         - [ ] Schedule a meet with @SirAh0 to implement the change on test server
-        - [ ] Pick a *launch window* for this change to go live
-        - [ ] Ensure your change is *launch ready* before the *launch window*
+        - [ ] Pick a **launch window** for this change to go live
+        - [ ] Ensure your change is **launch ready** before the **launch window**
         - [ ] After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success
 
   - type: textarea
