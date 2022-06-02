@@ -8,10 +8,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this new user form!
+        Request a change of User Role
 
   - type: textarea
     id: text
     attributes:
-      label: Issue Text
-      description: text goes here!
+      label: Request
+      description: List the discord user name and the role they need or channel they need access to.
+      placeholder: |
+        - DiscordUser#123
