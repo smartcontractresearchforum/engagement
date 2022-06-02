@@ -8,10 +8,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this new user form!
+        ### Requesting New Events
+        If you would like to add a new event to the SCRF calendar, please open [📅 Add New Calendar Event](https://github.com/smartcontractresearchforum/discovery/issues/new?assignees=&labels=&template=calendar.yml&title=%F0%9F%93%85+-+New+Event) issue
 
   - type: textarea
     id: text
     attributes:
-      label: Issue Text
-      description: text goes here!
+      label: Describe Problem
