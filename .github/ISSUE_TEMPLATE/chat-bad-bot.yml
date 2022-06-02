@@ -8,10 +8,17 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this new user form!
+        ...the telemetrists began to use a computer to program the computer that designed the program for the computer that programmed the robot-controlling computer. 
+        There was nothing but `confusion`. 
+        *— Isaac Asimov*
+  
+  - type: input
+    id: bot-name
+    attributes:
+      label: Bot Name
+      description: Identify the misguided bot.
 
   - type: textarea
     id: text
     attributes:
-      label: Issue Text
-      description: text goes here!
+      label: Describe Problem
