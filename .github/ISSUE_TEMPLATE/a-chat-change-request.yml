@@ -1,5 +1,5 @@
 name: 🗪 Chat Change Request
-description: Change anything about the SCRF Community Discord Chat server 
+description: "Change anything about the SCRF Community Discord Chat server"
 title: "🗪 - Change Request"
 labels: [chat]
 assignees:
@@ -11,16 +11,11 @@ body:
         ### Discord Change Lifecyle
         In order to get your change live on discord the following must occur.
         - a thing.
-        - another thing.
-        
+        - another thing.        
   - type: textarea
     id: text
     attributes:
       label: Issue Text
-      description: Describe your request.
-      value: |
-      - [ ] a thing
-      - [ ] another thing
-
-      ### Describe your request below
+      description: "Describe your request."
+      value: stuff
       
