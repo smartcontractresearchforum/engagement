@@ -1,0 +1,17 @@
+name: 🗪 Chat Change Request
+description: Change anything about the SCRF Community Discord Chat server 
+title: "🗪 - Change Request"
+labels: [chat]
+assignees:
+  - SirAh0
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this new user form!
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Issue Text
+      description: text goes here!

@@ -1,0 +1,17 @@
+name: 🗪 Chat Calendar 
+description: Something is wrong with a calendar listing
+title: "🗪 - Calendar"
+labels: [bug, chat]
+assignees:
+  - SirAh0
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this new user form!
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Issue Text
+      description: text goes here!
