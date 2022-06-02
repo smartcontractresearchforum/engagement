@@ -21,7 +21,7 @@ body:
     id: tasks
     attributes:
       label: Follow Up Tasks
-      description: "The following set of tasks must be accomplished for the change to go live."
+      description: The following set of tasks must be accomplished for the change to go live.
       value: |        
         ### Tasks
         - [ ] Schedule a meet with @SirAh0 to implement the change on test server
@@ -38,7 +38,7 @@ body:
   - type: textarea
     id: request
     attributes:
-      label: Describe the Change Request
-      
+      label: Change Request
+      description: Describe what the change is, what it's going to do, and how to measure success of the change.
 
         
