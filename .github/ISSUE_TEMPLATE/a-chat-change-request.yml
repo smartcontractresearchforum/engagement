@@ -11,10 +11,10 @@ body:
         ### Ownership of Change
         As the submitter of this change request you are in charge of its success.
         After this change requst is submitted, please follow up with the following tasks.        
-        - [ ] Schedule a meet with @SirAh0 to implement the change on test server
-        - [ ] Pick a launch window for this change to go live
-        - [ ] 
-        - [ ] After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success.
+        - Schedule a meet with @SirAh0 to implement the change on test server
+        - Pick a *launch window* for this change to go live
+        - Ensure your change is *launch ready* before the *launch window*
+        - After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success        
         
   
   - type: textarea
