@@ -12,4 +12,15 @@ body:
         In order to get your change live on discord the following must occur.
         - a thing.
         - another thing.
+        
+  - type: textarea
+    id: text
+    attributes:
+      label: Issue Text
+      description: Describe your request.
+      value: |
+      - [ ] a thing
+      - [ ] another thing
+
+      ### Describe your request below
       
