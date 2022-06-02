@@ -21,12 +21,6 @@ body:
         
         For a list of launch windows please see the [Launch Window View](https://github.com/orgs/smartcontractresearchforum/projects/31/views/2) 
 
-        - Schedule a meet with @SirAh0 to implement the change on test server
-        - Pick a **launch window** for this change to go live
-        - Ensure your change is **launch ready** before the **launch window**
-        - After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success        
-        - Document pipeline approval, if applicable @marvino3
-
   
   - type: textarea
     id: tasks
