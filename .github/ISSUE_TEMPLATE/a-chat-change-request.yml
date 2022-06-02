@@ -35,5 +35,10 @@ body:
       label: Benefits
       description: How will this change benefit the SCRF Community?
 
+  - type: textarea
+    id: request
+    attributes:
+      label: Describe the Change Request
+      
 
         
