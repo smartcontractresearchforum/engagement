@@ -8,24 +8,31 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Discord Change Lifecyle
-        In order to get your change live on discord the following must occur.
-        - a thing.
-        - another thing.        
+        ### Ownership of Change
+        As the submitter of this change request you are in charge of its success.
+        After this change requst is submitted, please follow up with the following tasks.        
+        - [ ] Schedule a meet with @SirAh0 to implement the change on test server
+        - [ ] Pick a launch window for this change to go live
+        - [ ]
+        - [ ] After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success.
+        
   
   - type: textarea
     id: tasks
     attributes:
       label: Follow Up Tasks
       description: "The following set of tasks must be accomplished for the change to go live."
-      value: |
+      value: |        
         ### Tasks
-        - [ ] a thing
+        - [ ] Describe
         - [ ] another thing
 
   - type: textarea
     id: request
     attributes:
-      label: Change Request
-      description: "Description of the change requst"    
+      label: Describe the Change Request
+      description: |
+          What is this change going to do?          
+          - any needed role changes?
+
         
