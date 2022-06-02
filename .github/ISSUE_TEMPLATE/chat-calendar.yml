@@ -15,3 +15,4 @@ body:
     id: text
     attributes:
       label: Describe Problem
+      description: Which event is incorrect and where is it located on the Discord Chat Server?
