@@ -12,4 +12,4 @@ jobs:
       - uses: actions/add-to-project@main
         with:
           project-url: https://github.com/orgs/smartcontractresearchforum/projects/31
-          github-token: ${{ secrets.DISCOVERY_ISSUE_PB_PAT }}         
+          github-token: ${{ secrets.ENGAGEMENT_ISSUE_PB_PAT }}         
