@@ -12,13 +12,20 @@ body:
         In order to get your change live on discord the following must occur.
         - a thing.
         - another thing.        
+  
   - type: textarea
-    id: text
+    id: tasks
     attributes:
-      label: Issue Text
-      description: "Describe your request."
+      label: Follow Up Tasks
+      description: "The following set of tasks must be accomplished for the change to go live."
       value: |
+        ### Tasks
         - [ ] a thing
         - [ ] another thing
-        ### Describe your request below
-      
+
+  - type: textarea
+    id: request
+    attributes:
+      label: Change Request
+      description: "Description of the change requst"    
+        
