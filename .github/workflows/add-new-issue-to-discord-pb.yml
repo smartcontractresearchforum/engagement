@@ -13,3 +13,10 @@ jobs:
         with:
           project-url: https://github.com/orgs/smartcontractresearchforum/projects/31
           github-token: ${{ secrets.ENGAGEMENT_ISSUE_PB_PAT }}         
+
+  route-bad-bot:
+    runs-on: ubuntu-latest
+    if: contains( github.event.issue.title, '🤖')
+    steps:
+      - name: Echo Bad Bot
+        run: echo "Bad Bot!"
