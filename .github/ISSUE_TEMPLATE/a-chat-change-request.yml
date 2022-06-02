@@ -10,24 +10,36 @@ body:
       value: |
         ### Ownership of Change
         As the submitter of this change request you are in charge of its success.
-        After this change requst is submitted, please follow up with the following tasks.        
+
+        ### On Brand Review
+        Any reqeusts to change or add images or words needs to pass through the [Document Pipeline](http://urltodocumentpipeline) (need url) @marvino3
+
+        ### Launch Ready Task List
+        Changes to Discord are made on a set schedule of **Launch Windows**. 
+        
+        In order for this change to go live, the **Launch Ready Task List** must be completed before the opening of the next **Launch Window**.
+        
+        For a list of launch windows please see the [Launch Window View](https://github.com/orgs/smartcontractresearchforum/projects/31/views/2) 
+
         - Schedule a meet with @SirAh0 to implement the change on test server
         - Pick a **launch window** for this change to go live
         - Ensure your change is **launch ready** before the **launch window**
         - After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success        
-        
+        - Document pipeline approval, if applicable @marvino3
+
   
   - type: textarea
     id: tasks
     attributes:
-      label: Follow Up Tasks
+      label: Launch Ready Task List
       description: The following set of tasks must be accomplished for the change to go live.
       value: |        
-        ### Tasks
+        ### Launch Ready Task List
         - [ ] Schedule a meet with @SirAh0 to implement the change on test server
         - [ ] Pick a launch window for this change to go live 
         - [ ] Ensure your change is launch ready before the launch window
         - [ ] After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success
+        - [ ] Document pipeline approval, if applicable @marvino3
 
   - type: textarea
     id: benefit
