@@ -14,6 +14,9 @@ body:
         ### On Brand Review
         Any reqeusts to change or add images or words needs to pass through the [Document Pipeline](http://urltodocumentpipeline) (need url) @marvino3
 
+        ### Make Change Requests Unique
+        Each Change Request submitted should represent a single change or a change in singular scope. Each change should be tracked as it's own issue.
+
         ### How to Go Live
         Changes to Discord are made on a set schedule of `Launch Windows`. 
         
