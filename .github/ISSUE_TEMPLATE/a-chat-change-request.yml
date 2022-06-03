@@ -33,7 +33,6 @@ body:
       label: Launch Ready Task List
       description: The following set of tasks must be accomplished for the change to go live.
       value: |        
-        ### Launch Ready Task List
         - [ ] Schedule a meet with @SirAh0 to implement the change on test server
         - [ ] Pick a launch window for this change to go live 
         - [ ] Ensure your change is launch ready before the launch window
