@@ -12,7 +12,7 @@ body:
       value: |
         ### How to List a New Job
         1. New Role Proposal (copy doc and fill out areas)
-        🔗 [JD Template](https://docs.google.com/document/d/1whK2If1FmwCbjw3rdpVLPhMRiQutwtOug6kDK5so2BY/edit)
+        🔗 [New Role Proposal Template](https://docs.google.com/document/d/1whK2If1FmwCbjw3rdpVLPhMRiQutwtOug6kDK5so2BY/edit)
 
         2. Fill out the fields below in this issue.
 
@@ -46,6 +46,6 @@ body:
     id: role-proposal-url
     attributes:
       label: Role Proposal URL
-      description: Please enter the URL of the completed New Role Proposal JD Template.
+      description: Please enter the URL of the completed New Role Proposal Template.
     validations:
       required: true 
