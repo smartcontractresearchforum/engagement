@@ -30,13 +30,13 @@ body:
   - type: textarea
     id: tasks
     attributes:
-      label: Launch Ready Task List
+      label:  ⛽Fueled Task List
       description: The following set of tasks must be accomplished for the change to go live.
       value: |        
         - [ ] Schedule a meet with @SirAh0 to implement the change on test server
         - [ ] Pick a launch window for this change to go live 
         - [ ] Ensure your change is launch ready before the launch window
-        - [ ] After a month, schedule a follow up meeting with @SirAh0 to explain why this change was a success
+        - [ ] Schedule a follow up meeting with @SirAh0 to explain why this change was a success one month out
         - [ ] Document pipeline approval, if applicable @marvino3
 
   - type: textarea
