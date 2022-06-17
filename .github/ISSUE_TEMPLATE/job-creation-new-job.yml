@@ -45,7 +45,7 @@ body:
   - type: input
     id: role-proposal-url
     attributes:
-      label: Role Proposal
+      label: Role Proposal URL
       description: Please enter the URL of the completed New Role Proposal JD Template.
     validations:
       required: true 
