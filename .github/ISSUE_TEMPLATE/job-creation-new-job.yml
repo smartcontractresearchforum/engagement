@@ -28,21 +28,21 @@ body:
         - [ ] Posted on Job boards
         - [ ] Role filled
 
-  - type: textfield
+  - type: input
     id: team
     attributes:
       label: Team
     validations:
       required: true             
 
-  - type: textfield
+  - type: input
     id: rolename
     attributes:
       label: New Role Name
     validations:
       required: true       
 
-  - type: textfield
+  - type: input
     id: role-proposal-url
     attributes:
       label: Role Proposal
