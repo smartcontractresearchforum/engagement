@@ -1,0 +1,23 @@
+name: 🎯 - New Bounty
+description: Submit a request to add a new bounty to SCRF
+title: "🎯 - Bounty"
+labels: ["🎯 Bounty"]
+assignees:
+  - 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Eligibility
+        This bounty is for Contributor or higher members of SCRF.
+
+        ### Steps to Success
+        - [ ] Use the 🔗 [Notable Works](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_notable_works_template.md) template to submit **five** total notable works to the `Privacy` category on the [forum](https://www.smartcontractresearch.org/t/notable-works-in-privacy/101/6)
+        - [ ] Provide a justification for why this is an appropriate notable work in the comment section of the post        
+        - [ ] Receive 5 or more likes on each comment
+        - [ ] Receive 2 or more direct replies to that comment        
+
+        ### Steps to Redeem
+        - [ ] Once above conditions are met, leave a comment on this ticket requesting moderator review with a link to your submissions
+        - [ ] Once verified, fill out a Bounty Redemption Contract
+        - [ ] Get Your DAI
