@@ -29,3 +29,12 @@ jobs:
         with:
           project-url: https://github.com/orgs/smartcontractresearchforum/projects/33
           github-token: ${{ secrets.ENGAGEMENT_ISSUE_PB_PAT }}    
+
+  route-job-creation:
+    runs-on: ubuntu-latest
+    if: contains( github.event.issue.title, '🎯 - New Bounty')
+    steps:    
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/smartcontractresearchforum/projects/32
+          github-token: ${{ secrets.ENGAGEMENT_ISSUE_PB_PAT }}   
