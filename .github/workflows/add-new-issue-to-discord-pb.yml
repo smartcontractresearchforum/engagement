@@ -32,7 +32,7 @@ jobs:
 
   route-new-bounty:
     runs-on: ubuntu-latest
-    if: contains( github.event.issue.title, '🎯 - New Bounty')
+    if: contains( github.event.issue.title, '🎯 - Bounty')
     steps:    
       - uses: actions/add-to-project@main
         with:

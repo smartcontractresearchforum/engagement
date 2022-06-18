@@ -11,6 +11,11 @@ body:
         ### Eligibility
         This bounty is for Contributor or higher members of SCRF.
 
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      value: |
         ### Steps to Success
         - [ ] Use the 🔗 [Notable Works](https://github.com/smartcontractresearchforum/docs/blob/main/en/content_notable_works_template.md) template to submit **five** total notable works to the `Privacy` category on the [forum](https://www.smartcontractresearch.org/t/notable-works-in-privacy/101/6)
         - [ ] Provide a justification for why this is an appropriate notable work in the comment section of the post        
