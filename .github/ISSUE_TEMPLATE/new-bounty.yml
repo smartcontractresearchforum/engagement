@@ -21,3 +21,8 @@ body:
         - [ ] Once above conditions are met, leave a comment on this ticket requesting moderator review with a link to your submissions
         - [ ] Once verified, fill out a Bounty Redemption Contract
         - [ ] Get Your DAI
+
+  - type: textfield
+    id: justification
+    attributes:
+      label: Describe Notable Work  
