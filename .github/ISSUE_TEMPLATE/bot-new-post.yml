@@ -1,0 +1,17 @@
+name: 🗪Chat-🤖 New Bot Posting
+description: Get a message scheduled for broadcast using SCRF Chat bots.
+title: "🗪Chat-🤖 New Bot Posting"
+labels: [chat]
+assignees:
+  - SirAh0
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this new user form!
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Describe the request
+      description: Please be as complete as possible with information such as the when, where, cadence, URLs, post content etc. 
