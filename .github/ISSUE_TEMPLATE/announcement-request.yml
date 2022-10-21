@@ -9,12 +9,12 @@ body:
     attributes:
       value: |        
         ## Review Process
-        When a request has been created it will be added to the project board and you can watch the progress of its approval there. 
+        When a request has been created it will be added to the [project board](https://github.com/orgs/smartcontractresearchforum/projects/32/views/12) and you can watch the progress of its approval there. 
 
-        Once the request has been approved it will be moved into the Ready column on the project board.
+        Once the request has been approved it will be moved into the `🚀Ready` column on the project board.
 
         ## Publishing
-        Once the publish date is reached and the announcement is approved then the approriate team member will make the post.
+        Once the publish date is reached and the announcement is approved then the approriate team member will make the post and it will then be set to `✅ Published` status.
 
   - type: input
     id: publish-date
