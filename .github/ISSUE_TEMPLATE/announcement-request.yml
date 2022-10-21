@@ -1,15 +1,13 @@
 name: Announcement Request
 description: If you have something to share with the SCRF community let us know!
-title: "Announcement Request - "
+title: "📣 - <add name here> "
 labels: [chat]
 assignees:
   - SirAh0
 body:
   - type: markdown
     attributes:
-      value: |
-        # Announcement Request 
-
+      value: |        
         ## Review Process
         When a request has been created it will be added to the project board and you can watch the progress of its approval there. 
 
