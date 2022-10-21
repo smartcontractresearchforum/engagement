@@ -38,3 +38,12 @@ jobs:
         with:
           project-url: https://github.com/orgs/smartcontractresearchforum/projects/32
           github-token: ${{ secrets.ENGAGEMENT_ISSUE_PB_PAT }}   
+
+  route-new-announcement:
+    runs-on: ubuntu-latest
+    if: contains( github.event.issue.title, '📣')
+    steps:    
+      - uses: actions/add-to-project@main
+        with:
+          project-url: https://github.com/orgs/smartcontractresearchforum/projects/32/views/12
+          github-token: ${{ secrets.ENGAGEMENT_ISSUE_PB_PAT }}             
