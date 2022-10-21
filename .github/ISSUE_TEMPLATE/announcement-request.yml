@@ -1,7 +1,7 @@
 name: Announcement Request
 description: If you have something to share with the SCRF community let us know!
 title: "📣 - <add name here> "
-labels: [chat]
+labels: [announcement]
 assignees:
   - SirAh0
 body:
