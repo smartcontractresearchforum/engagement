@@ -43,7 +43,8 @@ jobs:
     runs-on: ubuntu-latest
     if: contains( github.event.issue.title, '📣')
     steps:    
-      - uses: actions/add-to-project@main
+      - name: move to announcements pb 
+        uses: actions/add-to-project@main
         with:
           project-url: https://github.com/orgs/smartcontractresearchforum/projects/32/views/12
           github-token: ${{ secrets.ENGAGEMENT_ISSUE_PB_PAT }}             
